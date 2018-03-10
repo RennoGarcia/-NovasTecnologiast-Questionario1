@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
    
-    int main(void)
+    int main()
     {
         int cont = 0, Num;
         printf("Digite um numero inteiro:");

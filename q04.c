@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
    
-    int main(void)
+    int main()
     {
         int Num, aux = 1, x=0;
         float media = 0;
